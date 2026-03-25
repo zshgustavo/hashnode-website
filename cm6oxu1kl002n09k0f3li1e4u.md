@@ -2,7 +2,7 @@
 title: "O que é o BigQuery e para que ele serve?"
 seoTitle: "Introdução ao BigQuery: Utilização e Benefícios"
 seoDescription: "Descubra como o BigQuery, serviço do Google Cloud, facilita a análise de grandes volumes de dados para gerar insights estratégicos"
-datePublished: Mon May 30 2022 03:16:38 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-05-30T03:16:38.217Z
 cuid: cm6oxu1kl002n09k0f3li1e4u
 slug: bigquery-pra-que-ele-serve
 tags: data, data-science, big-data, data-analysis, google-cloud, google, google-cloud-platform, bigquery, gcp
