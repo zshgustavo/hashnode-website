@@ -2,7 +2,7 @@
 title: "Aproveite o Fabric Data Days: Intensivo de 50 Dias em Dados e IA com Certificação Sem Custo"
 seoTitle: "Curso Gratuito de Dados e IA: 50 Dias Intensivos"
 seoDescription: "Intensivo gratuito de 50 dias em dados e IA com certificação Microsoft, incluindo exames Azure sem custo. Impulsione sua carreira!"
-datePublished: Tue Oct 28 2025 21:02:16 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-28T21:02:16.375Z
 cuid: cmhb1yp86000502jy2iaogpta
 slug: aproveite-o-fabric-data-days-intensivo-de-50-dias-em-dados-e-ia-com-certificacao-sem-custo
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761683782200/08e00c3f-c3f2-4848-a855-8b4710d95c8b.png
