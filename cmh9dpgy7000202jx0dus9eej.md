@@ -2,7 +2,7 @@
 title: "Aplicações de Inteligência Artificial em Produção no Microsoft Azure com Terraform, Observabilidade, OpenTelemetry e Ingestão de Dados"
 seoTitle: "IA na Produção: Azure, Terraform e OpenTelemetry"
 seoDescription: "IA no Azure com Terraform, OpenTelemetry e MLOps: segurança, governança, otimização"
-datePublished: Mon Oct 27 2025 16:55:28 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-27T16:55:28.783Z
 cuid: cmh9dpgy7000202jx0dus9eej
 slug: aplicacoes-de-inteligencia-artificial-em-producao-no-microsoft-azure-com-terraform-observabilidade-opentelemetry-e-ingestao-de-dados
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761583986261/19727db2-d016-4456-bc01-76453410ec5d.png
