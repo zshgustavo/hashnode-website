@@ -2,7 +2,7 @@
 title: "How-To: Instalação do Docker no Windows da forma correta em 7 passos"
 seoTitle: "Instale Docker no Windows em 7 Passos Simples"
 seoDescription: "Aprenda a instalar o Docker no Windows corretamente com este guia completo em 7 passos. Simplifique o processo com dicas essenciais"
-datePublished: Tue Nov 05 2024 04:49:08 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-11-05T04:49:08.517Z
 cuid: cm6oxtei7000m09jr70ms16c7
 slug: how-to-instalac3a7c3a3o-do-docker-no-windows-da-forma-correta-17c41b2d46ca
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738580289839/857279a6-379c-4e1a-a0ea-034087d4244d.png
