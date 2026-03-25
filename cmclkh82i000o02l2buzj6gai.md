@@ -1,6 +1,6 @@
 ---
 title: "Guia para o Fediverso: Explorando a Rede Social Descentralizada"
-datePublished: Wed Jul 02 2025 06:19:43 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-07-02T06:19:43.770Z
 cuid: cmclkh82i000o02l2buzj6gai
 slug: guia-para-o-fediverso-explorando-a-rede-social-descentralizada
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1751436983184/12ce872b-38cd-4705-935e-721f1bec148b.jpeg
