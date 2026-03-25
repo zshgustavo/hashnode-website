@@ -2,7 +2,7 @@
 title: "Step-by-Step Guide to Installing Docker on Windows"
 seoTitle: "Install Docker on Windows: A Step-by-Step Guide"
 seoDescription: "Learn how to install Docker on Windows, set up WSL 2, and configure Docker Desktop for optimal performance with this step-by-step guide"
-datePublished: Mon Feb 03 2025 19:55:54 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-02-03T19:55:54.750Z
 cuid: cm6ph0wzi000i08jv9pxp6asv
 slug: step-by-step-guide-to-installing-docker-on-windows
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738612362403/80aa342c-2f25-4d3a-8285-c26f10fc39d3.webp
