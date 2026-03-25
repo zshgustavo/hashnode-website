@@ -1,7 +1,7 @@
 ---
 title: "Novo Servidor MCP do Data Commons é Lançado pelo Google"
 seoTitle: "Google Lança Novo Servidor MCP Data Commons"
-datePublished: Thu Oct 02 2025 21:51:15 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-02T21:51:15.771Z
 cuid: cmg9y9jy3000602lb6eva9xe8
 slug: novo-servidor-mcp-do-data-commons-e-lancado-pelo-google
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1759441768379/4b8bf5fe-d8c8-483f-a0f0-26765871c3e0.png
