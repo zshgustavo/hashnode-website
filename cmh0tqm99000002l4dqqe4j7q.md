@@ -2,7 +2,7 @@
 title: "Arquitetando o futuro dos dados: Guia de Serviços de Engenharia de Dados no Microsoft Azure"
 seoTitle: "Guia de Engenharia de Dados no Azure"
 seoDescription: "Aprenda a criar soluções avançadas de engenharia de dados no Azure com Azure Databricks e Azure Synapse Analytics"
-datePublished: Tue Oct 21 2025 17:14:20 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-10-21T17:14:20.589Z
 cuid: cmh0tqm99000002l4dqqe4j7q
 slug: arquitetando-o-futuro-dos-dados-guia-de-servicos-de-engenharia-de-dados-no-microsoft-azure
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761062194296/73af2085-c1eb-49b0-83c7-ddb4cc60e004.png
