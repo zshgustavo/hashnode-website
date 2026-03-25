@@ -2,7 +2,7 @@
 title: "Key Guidelines from Google on Artificial Intelligence Explained"
 seoTitle: "Google's AI Guidelines Explained"
 seoDescription: "Explore Google's AI guidelines emphasizing social benefit, safety, accountability, and privacy to ensure ethical and responsible AI development"
-datePublished: Mon Feb 24 2025 09:23:58 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-02-24T09:23:58.081Z
 cuid: cm7iup4ap000009jr5a4kaiqf
 slug: key-guidelines-from-google-on-artificial-intelligence-explained
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740386715265/0f3c0aad-95b7-4834-a2c8-f8579987ff4c.jpeg
